@@ -1,4 +1,4 @@
-Kripto Pra Piyasası Uygulaması
+Kripto Para Piyasası Uygulaması
 
 
 
