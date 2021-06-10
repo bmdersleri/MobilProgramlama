@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="horizontal"
+    android:columnCount="2"
+    android:padding="@dimen/padding_grid"
+    android:useDefaultMargins="true">
+    <TextView
+        android:layout_width="150dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:layout_height="wrap_content"
+        android:text="Boy"
+        android:id="@+id/boy"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:gravity="left|center_vertical"/>
+
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:digits="0123456789"
+        android:maxLength="3"
+        android:id="@+id/editText"
+        android:layout_row="0"
+        android:layout_column="1">
+        <requestFocus/>
+    </EditText>
+    <TextView
+        android:id="@+id/boy_tv"
+        android:layout_width="200dp"
+        android:layout_row="0"
+        android:layout_column="1"
+        android:layout_gravity="fill_horizontal"
+        android:padding="@dimen/padding_tv"
+        android:background="#7C3EEA" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/kilo"
+        android:id="@+id/kilo"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:gravity="left|center_vertical"/>
+    <SeekBar
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekbar"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:layout_gravity="fill_horizontal"
+
+        android:progress="20"
+        />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/cinsiyet"
+        android:id="@+id/cinsiyet"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:gravity="left|center_vertical"/>
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/_50_kg"
+        android:id="@+id/kilo_tv"
+        android:layout_row="2"
+        android:layout_column="1"/>
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_row="3"
+        android:layout_column="1"
+        android:id="@+id/radioGroup"
+        android:layout_gravity="fill_horizontal">
+        <RadioButton
+            android:id="@+id/erkek"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="3"
+            android:layout_column="1"
+            android:checked="true"
+            android:text="@string/erkek" />
+        <RadioButton
+            android:id="@+id/kadın"
+            android:layout_marginLeft="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/kadın"
+            android:layout_row="3"
+            android:layout_column="1"
+            />
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/ideal_kilo"
+        android:id="@+id/ideal_kilo"
+        android:layout_row="4"
+        android:layout_column="0"
+        android:gravity="left|center_vertical"/>
+
+    <TextView
+        android:id="@+id/idealkilo_tv"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_row="4"
+        android:layout_column="1"
+        android:layout_gravity="fill_horizontal"
+        android:background="#add8e6"
+        android:padding="@dimen/padding_tv"
+        android:text="" />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/durum"
+        android:id="@+id/durum"
+        android:layout_row="5"
+        android:layout_column="0"
+        android:gravity="left|center_vertical"/>
+
+    <TextView
+        android:id="@+id/durum_tv"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_row="5"
+        android:layout_column="1"
+        android:layout_gravity="fill_horizontal"
+        android:background="#9C27B0"
+        android:padding="@dimen/padding_tv"
+        android:text="" />
+    <Space/>
+
+</GridLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/profil"
+        android:title="@string/profil"
+        app:showAsAction="never"
+        >
+    </item>
+
+    <item
+        android:id="@+id/hakkında"
+        android:title="@string/hakkinda"
+        app:showAsAction="never"
+        >
+    </item>
+
+    <item
+        android:id="@+id/ayarlar"
+        android:title="@string/ayarlar"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:id="@+id/mainLogout"
+        android:title="@string/cikis"
+        app:showAsAction="never">
+
+    </item>
+
+
+</menu>

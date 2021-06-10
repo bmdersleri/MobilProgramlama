@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904875769596",
+    "project_id": "idealkilo-15d74",
+    "storage_bucket": "idealkilo-15d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904875769596:android:83a63558779212b61b2179",
+        "android_client_info": {
+          "package_name": "com.idealkilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904875769596-05j8v4fqfqad1tpv7af86u1uu3s3pic0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idealkilo",
+            "certificate_hash": "fb61d50ff334b73af0a50a82889112a3fe6aa3c7"
+          }
+        },
+        {
+          "client_id": "904875769596-8hvffru5522set68lgj7jgeomgeekht6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Zp-yhVgbSIrY1AKU7nTbsIrOM5vY478"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904875769596-8hvffru5522set68lgj7jgeomgeekht6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
