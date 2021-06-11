@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-<item
-     android:id="@+id/bottom_image_add"
-     android:title="Resim Ekle"
-     android:icon="@drawable/bottom_image_black">
-</item>
-</menu>
