@@ -17,6 +17,6 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
-Uygulamanın Youtube Linki: https://www.youtube.com/watch?v=j3ngiKAqQEY&t=1s
+Uygulamanın Youtube Linki: https://youtu.be/YeKwpC4wy5A
 
 Hazırlayan: Seren SOLMAZ
