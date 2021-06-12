@@ -1,0 +1,95 @@
+[gd_scene load_steps=13 format=2]
+
+[ext_resource path="res://ball.png" type="Texture" id=1]
+[ext_resource path="res://bgbg.jpg" type="Texture" id=2]
+[ext_resource path="res://pota.png" type="Texture" id=3]
+[ext_resource path="res://RigidBody2D.gd" type="Script" id=4]
+[ext_resource path="res://m3x6.ttf" type="DynamicFontData" id=5]
+[ext_resource path="res://Label.gd" type="Script" id=6]
+
+[sub_resource type="PhysicsMaterial" id=2]
+friction = 20.0
+bounce = 0.6
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 32.0
+
+[sub_resource type="RectangleShape2D" id=3]
+extents = Vector2( 4.09528, 3.84387 )
+
+[sub_resource type="RectangleShape2D" id=4]
+extents = Vector2( 46.726, 20.0809 )
+
+[sub_resource type="RectangleShape2D" id=5]
+extents = Vector2( 70.2773, 11.0879 )
+
+[sub_resource type="DynamicFont" id=6]
+size = 64
+font_data = ExtResource( 5 )
+
+[node name="Node2D" type="Node2D"]
+
+[node name="bg" type="Sprite" parent="."]
+modulate = Color( 0.313726, 0.356863, 0.737255, 1 )
+position = Vector2( 480, 288 )
+scale = Vector2( 4, 4 )
+texture = ExtResource( 2 )
+
+[node name="RigidBody2D" type="RigidBody2D" parent="."]
+position = Vector2( 356.8, 157.88 )
+mass = 2.0
+physics_material_override = SubResource( 2 )
+gravity_scale = 12.0
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="Sprite" type="Sprite" parent="RigidBody2D"]
+scale = Vector2( 2, 2 )
+texture = ExtResource( 1 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="RigidBody2D"]
+shape = SubResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 72, 288 )
+scale = Vector2( 2, 2 )
+texture = ExtResource( 3 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+polygon = PoolVector2Array( 0, 0, 0, 32, 16, 32, 16, 168, 40, 168, 40, 176, 16, 176, 16, 544, 960, 544, 960, -256, 0, -256, -64, -320, 1024, -320, 1024, 640, -64, 640, -64, -256, 0, -256 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 139.981, 171.942 )
+shape = SubResource( 3 )
+
+[node name="giris" type="Area2D" parent="."]
+
+[node name="girisAlan" type="CollisionShape2D" parent="giris"]
+position = Vector2( 89.998, 189.624 )
+shape = SubResource( 4 )
+
+[node name="cikis" type="Area2D" parent="."]
+
+[node name="cikisAlan" type="CollisionShape2D" parent="cikis"]
+position = Vector2( 94.3507, 209.44 )
+shape = SubResource( 5 )
+
+[node name="Skor" type="Label" parent="."]
+margin_left = 311.357
+margin_top = 17.7285
+margin_right = 351.357
+margin_bottom = 31.7285
+custom_fonts/font = SubResource( 6 )
+text = "SAYI: 0"
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+[connection signal="skor" from="RigidBody2D" to="Skor" method="_on_RigidBody2D_skor"]
+[connection signal="body_entered" from="giris" to="RigidBody2D" method="_on_giris_body_entered"]
+[connection signal="body_exited" from="giris" to="RigidBody2D" method="_on_giris_body_exited"]
+[connection signal="body_entered" from="cikis" to="RigidBody2D" method="_on_cikis_body_entered"]
