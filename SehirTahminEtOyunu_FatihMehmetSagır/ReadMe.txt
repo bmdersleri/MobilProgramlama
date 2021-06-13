@@ -1,5 +1,5 @@
 # Konu Adı
-Şehir Tahmin Et Oyunu #11
+Şehir Tahmin Et Oyunu #13
 
 Youtube Kanalımız: BMDersleri
 
