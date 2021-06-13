@@ -12,7 +12,7 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
-Uygulamanın Youtube Linki: 
+Uygulamanın Youtube Linki: https://www.youtube.com/watch?v=p06UBTsdyD4&t=416s
 
 Hazırlayan: Kerem İNANÇ
 
