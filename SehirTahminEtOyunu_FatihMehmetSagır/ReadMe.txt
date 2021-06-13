@@ -9,9 +9,9 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
-Konu ile ilgili Youtube Video Linki :
+Konu ile ilgili Youtube Video Linki : https://www.youtube.com/watch?v=-kUrL1klag4
 
-Uygulama Google Play Linki:https://play.google.com/store/apps/details?id=com.ornekdenem.mobluygulma
+Uygulama Google Play Linki: https://play.google.com/store/apps/details?id=com.ornekdenem.mobluygulma
 
 Hazırlayan: Fatih Mehmet Sağır
 
