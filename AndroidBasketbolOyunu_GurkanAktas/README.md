@@ -12,4 +12,6 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
+Konu Hakkında Video Bağlantısı:https://www.youtube.com/watch?v=BbzUlcVUWas&t=1s
+
 Hazırlayan: Gürkan Aktaş
