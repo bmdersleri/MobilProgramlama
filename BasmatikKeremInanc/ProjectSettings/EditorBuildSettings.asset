@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 29695dd8e47954c448976f5ea845dd07
+  - enabled: 1
+    path: Assets/Scenes/oyunsahne.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/gameovemavi.unity
+    guid: cf4e94f5f4411f649b25b36b8964d19e
+  - enabled: 1
+    path: "Assets/Scenes/gameoverk\u0131rm\u0131z\u0131.unity"
+    guid: b5a1a35750a630041b4ea235ae822207
+  - enabled: 1
+    path: "Assets/Scenes/oynan\u0131sbilgilendirme.unity"
+    guid: 94d490201c78221489db7607bbb49494
+  - enabled: 0
+    path: Assets/Scenes/gecis.unity
+    guid: a2aedd1a02903da48bef8965df1300d4
+  m_configObjects: {}
