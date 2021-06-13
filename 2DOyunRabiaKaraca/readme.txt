@@ -8,6 +8,8 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
+Konu ile ilgili Youtube Video Linki :https://www.youtube.com/watch?v=fssMFZxlIKM
+
 Hazırlayan: Rabia KARACA 
 
 Dersler:

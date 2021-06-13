@@ -1,6 +1,4 @@
-Uygulama adı: BETK PDF Okuyucu
-
-Uygulama Tanıtım:
+BETK PDF Okuyucu
 
 Uygulamamız cihazınızdaki tüm .pdf uzantılı dosyalara erişir ve listeler. 
 Pdf dosyasını açtığımızda sağ üst köşede bulunan ayarlar menüsünden gece teması, gündüz teması ve yatay mod gibi seçeneklerle pdf dosyamızı ayarlayabiliriz.
@@ -15,7 +13,7 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
-Uygulamanın Youtube Linki: 
+Uygulamanın Youtube Linki: https://youtu.be/YyttVJ1feY8
 
 Hazırlayan: Emre ŞAHİN
 
