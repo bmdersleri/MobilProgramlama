@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - yer
+  - yik
+  - top
+  - testere
+  - can
+  - puantext
+  - arkaplan
+  - Spawn
+  - su
+  - carpi
+  - stage
+  - solbuton
+  - hedeftext
+  - Gerisayim
+  - leveltext
+  - -1
+  - -2
+  - -3
+  - -4
+  - -5
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - basaritext
+  - reklam
+  - up
+  - down
+  - Pair
+  - spawniki
+  - "Anamen\xFC"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - number
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
