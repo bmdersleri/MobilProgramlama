@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C5B5B5"
+    tools:context=".NormalOyunAktivity">
+
+    <TextView
+        android:id="@+id/txtViewilBilgi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/txtSure"
+        app:layout_constraintStart_toStartOf="@+id/txtSure"
+        app:layout_constraintTop_toBottomOf="@+id/txtSure" />
+
+    <TextView
+        android:id="@+id/txtViewil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/txtViewilBilgi"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/txtViewilBilgi"
+        app:layout_constraintTop_toBottomOf="@+id/txtViewilBilgi" />
+
+    <EditText
+        android:id="@+id/editTxtTahmin"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:ems="10"
+        android:hint="Tahminizi Giriniz"
+        android:inputType="textPersonName"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/txtViewilBilgi"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="@+id/txtViewilBilgi"
+        app:layout_constraintTop_toBottomOf="@+id/txtViewil" />
+
+    <Button
+        android:id="@+id/btnHarfAl"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="30dp"
+        android:onClick="btnHarfAl"
+        android:text="HARF AL"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:backgroundTint="#9C27B0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTxtTahmin" />
+
+    <Button
+        android:id="@+id/btnTahminEt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginRight="35dp"
+        android:onClick="btnTahminEt"
+        android:text="TAHMİN ET"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:backgroundTint="#9C27B0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTxtTahmin" />
+
+    <TextView
+        android:id="@+id/textViewToplamPuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Toplam Bölüm Puanınız : 0"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtSure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="3:00"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/textViewToplamPuan"
+        app:layout_constraintHorizontal_bias="0.463"
+        app:layout_constraintStart_toStartOf="@+id/textViewToplamPuan"
+        app:layout_constraintTop_toBottomOf="@+id/textViewToplamPuan" />
+
+    <Button
+        android:id="@+id/bntTekrarOyna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnYenidenOyna"
+        android:text="Yeniden Oyna"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:backgroundTint="#9C27B0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnTahminEt" />
+</androidx.constraintlayout.widget.ConstraintLayout>
