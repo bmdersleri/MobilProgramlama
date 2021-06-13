@@ -1,6 +1,5 @@
-# Mobil_Programlama
+Reach
 
-UYGULAMA ADI : Reach
 
 Basit 2D bir oyun.Oyunumuzda bir top var ve bu topu zıplatarak ekranın sağ tarafından spawnlanan sayıları topluyoruz.Daha sonra oyunun bizde random istediği hedefe ulaşırsak finish bayrağını alıyoruz ve oyunun hızını arttırıp rekor kırmaya çalışıyoruz.
 
@@ -12,10 +11,9 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
+Uygulamanın Youtube Linki: 
+
 Hazırlayan:Furkan Sağ
 
 
 
-
-
-**
