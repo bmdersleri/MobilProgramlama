@@ -23,4 +23,4 @@ Packages
 Editör ile birlikte yüklenen Unity'nin tüm temel özelliklerini ve gerektiğinde yükleyebileceğiniz diğer paketleri içerir.
 
 Project Settings
-Uygulama için tanımlanan bazı ayarları içerir.
+Uygulama için tanımlanan bazı ayarları içerir
