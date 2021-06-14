@@ -15,7 +15,7 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
-Uygulamanın Youtube Linki:  https://play.google.com/store/apps/details?id=com.saytahmnuygulamas
+Uygulamanın Youtube Linki:  https://www.youtube.com/watch?v=suPA2No-BaI&list=PLwhxgey9h6nCt4RnebgCFCWjNLuwNHr22&index=25&t=1s
 
 Hazırlayan: Atiye Nur Özpınar
 
