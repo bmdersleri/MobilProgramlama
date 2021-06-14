@@ -8,10 +8,15 @@ Eğer t4 değişkeni ile alınan tahmin değeri random sayıların tutulduğu di
 değerini false yapıldı. Durum değişkeni while dönüsüne girilebilsin diye false yapıldı. Dizini j. Elemanına tahmin edilen sayı eşitmi değilmi bunun kontrolünü sağlamak için bir if-else döngüsü(koşul) oluşturuldu. Eğer koşul sağlandıysa for döngüsünü kırıp tekrar while döngüsüne girer. Eğer dizinin son elemanına gelindiyse durum true yapılır ve while döngüsünden üretilen çıktı sayı dizinin içersine alınır.
 
 Youtube Kanalımız: BMDersleri
+
 Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
+
 Kısa Bağlantı: https://bit.ly/32k9MnJ
+
 Github Adresimiz: https://github.com/bmdersleri
+
 Uygulamanın Youtube Linki:  https://play.google.com/store/apps/details?id=com.saytahmnuygulamas
+
 Hazırlayan: Atiye Nur Özpınar
 
 
