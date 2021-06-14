@@ -12,6 +12,8 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulamanın Youtube Linki: https://www.youtube.com/watch?v=xaNbbbuRCbI
 
+Uygulamanın Google Play Store Linki: https://play.google.com/store/apps/details?id=com.mobilprog.hadespersephone
+
 Hazırlayan: Bahar Yağcı
 
 
