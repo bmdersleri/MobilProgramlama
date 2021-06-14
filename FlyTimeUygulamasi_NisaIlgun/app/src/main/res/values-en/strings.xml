@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kus Vurma</string>
+    <string name="uc_vur">Shoot the fly</string>
+    <string name="basla">Play</string>
+    <string name="en_yuksek_skor">High score</string>
+</resources>
