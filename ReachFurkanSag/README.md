@@ -13,6 +13,8 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulamanın Youtube Linki: https://www.youtube.com/watch?v=7RuFerS6DsU
 
+Uygulamanın Google Play Store Linki: https://play.google.com/store/apps/details?id=com.Vicky.Reach
+
 Hazırlayan:Furkan Sağ
 
 
