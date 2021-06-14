@@ -1,0 +1,13 @@
+{
+  "name": "com.hifive.shaders",
+  "displayName": "Hifive Shaders",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "author": "Gökhan Yahya TORBA",
+  "description": "Hifive Shaders developed to add different, optimized shaders into projects to create prototypes as fast as possible.",
+  "keywords": [
+    "Hifive",
+    "Shaders",
+    "Shader"
+  ]
+}

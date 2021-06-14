@@ -1,0 +1,13 @@
+{
+  "name": "com.hifive.inputmanager",
+  "displayName": "Hifive Input Manager",
+  "version": "1.0.2",
+  "unity": "2019.1",
+  "author": "Gökhan Yahya TORBA",
+  "description": "Hifive Input Manager contains premade input types that are developed to add most used input types (tap, drag, slide, swipe etc.) into projects to create prototypes as fast as possible.",
+  "keywords": [
+    "Hifive",
+    "Input Manager",
+    "Input"
+  ]
+}

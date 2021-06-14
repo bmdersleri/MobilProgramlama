@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2427e0bcb3aa26b42bf21001abe03012, type: 3}
+  m_Name: Level
+  m_EditorClassIdentifier: 
+  categoryTitle: Matematik-1
+  questions:
+  - questionTitle: 10+5
+    wrongAnswerTitles:
+    - 5
+    correctAnswerTitle: 15
+  - questionTitle: 8-2
+    wrongAnswerTitles:
+    - 5
+    correctAnswerTitle: 6
+  - questionTitle: 7+8
+    wrongAnswerTitles:
+    - 14
+    correctAnswerTitle: 15
+  - questionTitle: 15+15
+    wrongAnswerTitles:
+    - 20
+    correctAnswerTitle: 30
+  - questionTitle: 10-2
+    wrongAnswerTitles:
+    - 5
+    correctAnswerTitle: 8
+  - questionTitle: 10-2
+    wrongAnswerTitles:
+    - 5
+    correctAnswerTitle: 8

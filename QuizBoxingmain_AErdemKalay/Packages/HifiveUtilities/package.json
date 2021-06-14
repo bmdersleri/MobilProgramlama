@@ -1,0 +1,12 @@
+{
+  "name": "com.hifive.utilities",
+  "displayName": "Hifive Utilities",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "author": "Gökhan Yahya TORBA",
+  "description": "Hifive Utilities contains helper scripts, tools etc. that are developed to add generic functionalities into projects to create prototypes as fast as possible.",
+  "keywords": [
+    "Hifive",
+    "Utilities"
+  ]
+}

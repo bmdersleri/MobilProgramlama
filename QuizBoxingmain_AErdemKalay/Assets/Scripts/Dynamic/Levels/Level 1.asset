@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2427e0bcb3aa26b42bf21001abe03012, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  categoryTitle: Matematik-2
+  questions:
+  - questionTitle: 2x2+2:2
+    wrongAnswerTitles:
+    - 2
+    - 3
+    - 4
+    correctAnswerTitle: 5
+  - questionTitle: "Hangi say\u0131 di\u011Ferlerinden daha k\xFC\xE7\xFCkt\xFCr?"
+    wrongAnswerTitles:
+    - 3
+    - 2
+    - -1
+    correctAnswerTitle: -5
+  - questionTitle: 7+8
+    wrongAnswerTitles:
+    - 14
+    correctAnswerTitle: 15
+  - questionTitle: "Hangi say\u0131 di\u011Ferlerinden daha b\xFCy\xFCkt\xFCr?"
+    wrongAnswerTitles:
+    - 107
+    - 108
+    - 110
+    correctAnswerTitle: 132
+  - questionTitle: 2*2+(3+5)*2
+    wrongAnswerTitles:
+    - 18
+    - 19
+    - 21
+    correctAnswerTitle: 20

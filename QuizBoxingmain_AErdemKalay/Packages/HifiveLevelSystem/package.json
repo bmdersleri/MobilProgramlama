@@ -1,0 +1,13 @@
+{
+  "name": "com.hifive.levelsystem",
+  "displayName": "Hifive Level System",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "author": "Gökhan Yahya TORBA",
+  "description": "Hifive Level System contains premade scriptable objects that are developed to create game-level-stage logic into projects to create prototypes as fast as possible.",
+  "keywords": [
+    "Hifive",
+    "Level System",
+    "Level"
+  ]
+}

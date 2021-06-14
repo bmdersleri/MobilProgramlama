@@ -1,0 +1,13 @@
+{
+  "name": "com.hifive.vibrator",
+  "displayName": "Hifive Vibrator",
+  "version": "1.0.1",
+  "unity": "2019.1",
+  "author": "Gökhan Yahya TORBA",
+  "description": "Hifive Vibrator provides custom vibration for Android & IOS to make game's feedbacks more powerful.",
+  "keywords": [
+    "Hifive",
+    "Vibrate",
+    "Vibrator"
+  ]
+}
