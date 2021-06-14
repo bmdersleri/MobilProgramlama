@@ -1,6 +1,8 @@
 Adım Sayar
 
-Adım sayar sayesinde attığınız her adımı görebileceksiniz.
+Bu uygulama sayesinde attığınız adımları sayacaktır. Atmak istediğiniz adım sayısını belirleyin ve yürüyün. Attığınız her adımda hedefinize daha çok yaklaştığınızı göreceksiniz.
+Pil koruması için uygulama arka planda çalışmamaktadır. 
+
 
 Youtube Kanalımız: BMDersleri
 

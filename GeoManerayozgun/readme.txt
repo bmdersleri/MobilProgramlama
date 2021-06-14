@@ -13,7 +13,7 @@ Uygulama Linki: https://play.google.com/store/apps/details?id=com.abaza.geoman
 
 Hazırlayan: Eray Özgün 
 
-00:00 Giriş
+00:00 Giriş 
 00:38 Tasarım
 01:24 Çalışma Mantığı
 02:00 Dokunma Özelliği
