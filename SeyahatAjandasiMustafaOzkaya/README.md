@@ -13,6 +13,8 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulamanın Youtube Linki: https://www.youtube.com/watch?v=9D6f3q9st1Q
 
+Uygulamanın Google Play Store Linki: https://play.google.com/store/apps/details?id=com.mustafa.seyahatajandasi
+
 Hazırlayan: Mustafa Özkaya
 
     
