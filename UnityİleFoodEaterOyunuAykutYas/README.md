@@ -6,7 +6,7 @@ Food Eater, karakterimizi yönlendirerek zehirli olmayan yemekleri yemeye çalı
 Eğer zehirli olan yiyecekleri yersek oyunumuz başa dönüyor.
 Eğer bütün yiyecekleri yiyebilirsek ‘Seviye Tamamlandı’ ibaresiyle karşılaşıyoruz.
 
-Uygulamanın Kodlarının Açıklamaları:
+Uygulamanın Kodlarının Açıklamarı:
 
 Rigidbody2D rb değişkeni oluşturalım. Sonra void awake fonksiyonunu oluşturuyoruz. Sonrasında fixupdate fonksiyonunu oluşturuyouz. Haraket hızını tanımlıyoruz. movespeed I daha önce tanımlamadığımız için public float movespeed değişkeni oluşturalım. Sonrasında yine public float rotate amount değişkeni oluşturalım. Son olarak float rot değişkeni oluşturalım. Bu karakterimizin rotate yani döndürme değeri olacak. Şimdi ekranda sağa mı sola mı tıklandığını kontrol ettireceğiz yani playerımızın haraketini ayarlayacağız. Bu ekrana basıp basmadığımızı test edecek. mousepos < 0 ise bu sola basıyoruz demektir.
 Şimdide collision yani çarpışmayı ayarlayacağız. Eğer food'a çarparsak food u yok et. Eğer danger a çarparsak game ekranını geri yükle işlemlerini yapacak kodları yazıyoruz. Bu aşamada scenemanagement kütüphanesi gelmesi lazım eğer gelmezse kendimiz ekleyelim.
