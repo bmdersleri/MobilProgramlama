@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ElectricK
+  m_Shader: {fileID: -6465566751694194690, guid: 61ad815919b3e814386ff96f9658556c,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_18E0821B:
+        m_Texture: {fileID: 2800000, guid: 2418a5320347eaf4ab0c70cf19093812, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4418D66: 1
+    - Vector1_8585AB86: 2
+    - Vector1_BF89D117: 20
+    m_Colors:
+    - Color_33DD4862: {r: 59.714115, g: 59.714115, b: 59.714115, a: 1}
+    - Vector2_392125E4: {r: 0.1, g: -0.5, b: 0, a: 0}
+    - Vector2_C44B6A94: {r: 0, g: 0.5, b: 0, a: 0}

@@ -1,0 +1,148 @@
+var puan:int; 
+puan = 0;
+//can değişkeni tanımlanması
+var can:int; 
+can = 3;
+//skor değerinin stringe dönüştürürlüp yazdırılması
+puan_txt.text= String (puan);
+//can değerinin ekranda gösterilmesi
+canbari.gotoAndStop(1);
+	
+//sahnede ki döngüyü başlatıyor
+stage.addEventListener(Event.ENTER_FRAME, Dongu);
+
+//kırmızı elma hareketi yukardan aşağı ve x düzleminde rastgele
+elma.x = Math.random()*(700-elma.width);
+elma.y = -elma.height
+;
+//yesil elma hareketi yukardan aşağı ve x düzleminde rastgele
+yesilelma.x = Math.random()*(700-yesilelma.width);
+yesilelma.y = -yesilelma.height;
+
+//sarı elma hareketi yukardan aşağı ve x düzleminde rastgele
+sarielma.x = Math.random()*(700-sarielma.width);
+sarielma.y = -sarielma.height;
+
+//bomba hareketi yukardan aşağı ve x düzleminde rastgele
+bomba.x = Math.random()*(800-bomba.width);
+bomba.y = -bomba.height;
+
+
+//kase tutma olayı
+kase.addEventListener(MouseEvent.MOUSE_DOWN, fl_ClickToDrag_2);
+function fl_ClickToDrag_2(event:MouseEvent):void
+{
+	kase.startDrag();
+}
+//kase bırakma olayı
+stage.addEventListener(MouseEvent.MOUSE_UP, fl_ReleaseToDrop_2);
+
+function fl_ReleaseToDrop_2(event:MouseEvent):void
+{
+	kase.stopDrag();
+	
+}
+//fonksiyon elme ve bomba hareketleri
+function Dongu(eo:Event):void
+		{
+			//elma hızı
+			elma.y += 15;
+			//elmanın en aşağı inince tekrar yukarı yollama
+			if(elma.y > 700)
+			{
+				elmayiYenidenGonder();
+			}
+		//elmanın ve sepetin birbirine dokunma olayı
+			if(kase.hitTestObject(elma))
+			{
+					//elmanın tekrar yukarı yollama olayı
+				elmayiYenidenGonder();
+				//puan değerinin arttırılması
+				puan=puan+15;
+				//puan değerinin stringe dönüştürülmesi ve yazdırılması
+		puan_txt.text= String (puan);
+				
+			}
+			
+			yesilelma.y += 20;
+			if(yesilelma.y > 700)
+			{
+				yesilelmayiYenidenGonder();
+			}
+			
+			if(kase.hitTestObject(yesilelma))
+			{
+				yesilelmayiYenidenGonder();
+				puan=puan+25;
+		puan_txt.text= String (puan);
+				
+			}
+			//sepetin yukarı çıkmasını engelleme
+				if(kase.hitTestObject(agac))
+			{
+				kase.y=550;
+			}
+			
+				sarielma.y += 10;
+			if(sarielma.y > 700)
+			{
+				sarielmayiYenidenGonder();
+			}
+			
+			if(kase.hitTestObject(sarielma))
+			{
+				sarielmayiYenidenGonder();
+				puan=puan+10;
+		      puan_txt.text= String (puan);
+				
+			}
+			
+			bomba.y += 10;
+			if(bomba.y > 700)
+			{
+				bombaYenidenGonder();
+			}
+			//bomba ve sepetin birbirine teması can barının azaltılması işlemi
+			if(kase.hitTestObject(bomba))
+			{
+				bombaYenidenGonder();
+				//can değişkeni 1 azaltılıp can barında ki kalbin azaltılması
+				can=can-1;
+					if(can==2)
+			{	canbari.gotoAndStop(2);
+				
+	}
+				if(can==1)
+			{	canbari.gotoAndStop(3);
+				
+	}
+			if(can==0)
+			{	canbari.gotoAndStop(4);
+				gotoAndStop(3);
+	}
+			}
+			
+						   
+		}
+		
+		//elma ve bombanın hangi konumdan hangi hızla geleceğini belirleyen fonksiyonlar 
+		function elmayiYenidenGonder():void
+		{
+			elma.x = Math.random()*(700-elma.width);
+			elma.y = -elma.height;
+		}
+		function yesilelmayiYenidenGonder():void
+		{
+			yesilelma.x = Math.random()*(700-yesilelma.width);
+			yesilelma.y = -yesilelma.height;
+		}
+		function sarielmayiYenidenGonder():void
+		{
+			sarielma.x = Math.random()*(700-sarielma.width);
+			sarielma.y = -yesilelma.height;
+		}
+		function bombaYenidenGonder():void
+		{
+			bomba.x = Math.random()*(700-bomba.width);
+			bomba.y = -bomba.height;
+		}
