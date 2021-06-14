@@ -1,0 +1,6 @@
+lane :beta do
+  get_certificates           # invokes cert
+  get_provisioning_profile   # invokes sigh
+  build_app
+  upload_to_testflight
+end

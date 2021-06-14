@@ -1,0 +1,16 @@
+{
+    "name": "Unity.HifiveShaders.Editor",
+    "references": [
+        "GUID:e12aa746dd770d7469482633fe958b3c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

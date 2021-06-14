@@ -1,0 +1,12 @@
+{
+  "name": "com.hifive.paint",
+  "displayName": "Hifive Paint",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "author": "Gökhan Yahya TORBA",
+  "description": "Hifive Paint contains real-time 3d mesh painting scripts with shaders that are optimized for mobile devices. Hifive Paint developed to add painting functionalities into projects to create prototypes as fast as possible.",
+  "keywords": [
+    "Hifive",
+    "Paint"
+  ]
+}

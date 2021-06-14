@@ -1,0 +1,19 @@
+{
+    "name": "Unity.HifivePathManager.Editor",
+    "references": [
+        "PathCreatorEditor",
+        "PathCreator",
+        "PathCreator.Examples",
+        "PathCreator.Examples.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

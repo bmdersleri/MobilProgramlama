@@ -1,0 +1,16 @@
+{
+    "name": "Unity.HifiveLevelSystem.Editor",
+    "references": [
+        "Unity.HifiveLevelSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

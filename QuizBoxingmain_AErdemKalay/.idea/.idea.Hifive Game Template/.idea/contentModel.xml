@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Hifive Game Template.1801041369.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="Baloo" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+          <e p="Changa_One" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+          <e p="Lilita_One" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+          <e p="Passion_One" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Editor" t="Include">
+            <e p="BuildActions.cs" t="Include" />
+            <e p="PostBuildActions.cs" t="Include" />
+            <e p="PrefsEditorWindow.cs" t="Include" />
+            <e p="PrefsManagerEditor.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="GameManager.cs" t="Include" />
+            <e p="LevelManager.cs" t="Include" />
+            <e p="PrefsManager.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ThirdParty" t="Include">
+          <e p="Confetti FX" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="DOTween-1_2_335" t="Include">
+            <e p="Modules" t="Include">
+              <e p="DOTweenModuleAudio.cs" t="Include" />
+              <e p="DOTweenModulePhysics.cs" t="Include" />
+              <e p="DOTweenModulePhysics2D.cs" t="Include" />
+              <e p="DOTweenModuleSprite.cs" t="Include" />
+              <e p="DOTweenModuleUI.cs" t="Include" />
+              <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+              <e p="DOTweenModuleUtils.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="EpicToonVFX" t="Include">
+            <e p="Demo scene" t="Include">
+              <e p="DemoToonVFX.cs" t="Include" />
+              <e p="HDRP and URP(LWRP).txt" t="Include" />
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="Front attack" t="Include">
+                <e p="FrontMover.cs" t="Include" />
+              </e>
+              <e p="Punches" t="Include">
+                <e p="readme.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="EGA_EffectSound.cs" t="Include" />
+              <e p="ParticleCollisionInstance.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Add_CenterGlow.shader" t="Include" />
+              <e p="Add_Fresnel.shader" t="Include" />
+              <e p="Blend_CenterGlow.shader" t="Include" />
+              <e p="Blend_TwoSides.shader" t="Include" />
+              <e p="Lightning.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Minimalist v2.4.3" t="Include">
+            <e p="Documentation" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="EditorGUILayoutExtended.cs" t="Include" />
+              <e p="MinimalistClipboard.cs" t="Include" />
+              <e p="MinimalistSkyEditor.cs" t="Include" />
+              <e p="MinimalistStandardEditor.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="BuiltInRenderPipeline" t="Include">
+                <e p="Minimalist Standard LocalSpace.shader" t="Include" />
+                <e p="Minimalist Standard.shader" t="Include" />
+              </e>
+              <e p="LightweightRenderPipeline" t="Include">
+                <e p="Minimalist Standard LocalSpace LWRP.shader" t="Include" />
+                <e p="Minimalist Standard LWRP.shader" t="Include" />
+              </e>
+              <e p="Minimalist Sky.shader" t="Include" />
+            </e>
+          </e>
+          <e p="NiceVibrations" t="Include">
+            <e p="Common" t="Include">
+              <e p="Plugins" t="Include">
+                <e p="Android" t="Include">
+                  <e p="AndroidManifest.xml" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="MMNVAndroidWaveFormAssetEditor.cs" t="Include" />
+                </e>
+                <e p="MMNVAHAP.cs" t="Include" />
+                <e p="MMNVAndroid.cs" t="Include" />
+                <e p="MMNVAndroidWaveFormAsset.cs" t="Include" />
+                <e p="MMNVBuildPostProcessor.cs" t="Include" />
+                <e p="MMNViOS.cs" t="Include" />
+                <e p="MMNViOSCoreHaptics.cs" t="Include" />
+                <e p="MMVibrationManager.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Demos" t="Include">
+              <e p="_Common" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="DemoManager.cs" t="Include" />
+                  <e p="NiceVibrationsDemoHelpers.cs" t="Include" />
+                  <e p="SoundSwitch.cs" t="Include" />
+                  <e p="UI" t="Include">
+                    <e p="HapticCurve.cs" t="Include" />
+                    <e p="MMFPSCounter.cs" t="Include" />
+                    <e p="MMFPSUnlock.cs" t="Include" />
+                    <e p="MMKnob.cs" t="Include" />
+                    <e p="MMProgressBar.cs" t="Include" />
+                    <e p="MMSignal.cs" t="Include" />
+                    <e p="MMSpriteReplace.cs" t="Include" />
+                    <e p="MMSwitch.cs" t="Include" />
+                    <e p="MMTouchButton.cs" t="Include" />
+                    <e p="MMUIShaker.cs" t="Include" />
+                    <e p="Pagination.cs" t="Include" />
+                  </e>
+                  <e p="V2DemoManager.cs" t="Include" />
+                </e>
+                <e p="Shaders" t="Include">
+                  <e p="MaskedUI.shader" t="Include" />
+                </e>
+              </e>
+              <e p="_OLD" t="Include">
+                <e p="v1Demo" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="NiceVibrationsDemoManager.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="DemoAssets" t="Include">
+                <e p="AHAPPresetsDemo" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="PresetDemoManager.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="BallDemo" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="BallDemoBall.cs" t="Include" />
+                    <e p="BallDemoManager.cs" t="Include" />
+                    <e p="BallDemoWall.cs" t="Include" />
+                    <e p="BallPusher.cs" t="Include" />
+                    <e p="BallTouchZone.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="CarDemo" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="CarDemoManager.cs" t="Include" />
+                    <e p="PowerBarElement.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="ContinuousDemo" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="ContinuousHapticsDemoManager.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="RegularPresetsDemo" t="Include">
+                  <e p="RegularPresetsDemoManager.cs" t="Include" />
+                </e>
+                <e p="TransientDemo" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="TransientHapticsDemoManager.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="WobbleDemo" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="WobbleButton.cs" t="Include" />
+                    <e p="WobbleDemoManager.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="license.txt" t="Include" />
+            <e p="readme.txt" t="Include" />
+            <e p="ThirdParty" t="Include">
+              <e p="Newtonsoft" t="Include">
+                <e p="NewtonsoftJsonLicense.txt" t="Include" />
+              </e>
+            </e>
+            <e p="v1.7" t="Include">
+              <e p="NiceVibrations-v-1-7-readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Unisave" t="Include">
+            <e p="Libraries" t="Include">
+              <e p="LightJson" t="Include">
+                <e p="JsonArray.cs" t="Include" />
+                <e p="JsonObject.cs" t="Include" />
+                <e p="JsonValue.cs" t="Include" />
+                <e p="JsonValueType.cs" t="Include" />
+                <e p="LightJson.asmdef" t="Include" />
+                <e p="Serialization" t="Include">
+                  <e p="JsonParseException.cs" t="Include" />
+                  <e p="JsonReader.cs" t="Include" />
+                  <e p="JsonSerializationException.cs" t="Include" />
+                  <e p="JsonWriter.cs" t="Include" />
+                  <e p="TextPosition.cs" t="Include" />
+                  <e p="TextScanner.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CustomAttributes.cs" t="Include" />
+              <e p="local" t="Include">
+                <e p="Attributes" t="Include">
+                  <e p="NonNullAttribute.cs" t="Include" />
+                  <e p="SavedAsAttribute.cs" t="Include" />
+                </e>
+                <e p="DataRepositoryHelper.cs" t="Include" />
+                <e p="Distributor.cs" t="Include" />
+                <e p="IDataRepository.cs" t="Include" />
+                <e p="InMemoryDataRepository.cs" t="Include" />
+                <e p="LocalManager.cs" t="Include" />
+                <e p="PlayerPrefsDataRepository.cs" t="Include" />
+                <e p="UnisaveLocal.cs" t="Include" />
+                <e p="UnisaveLocalBehavior.cs" t="Include" />
+              </e>
+              <e p="UnisavePreferences.cs" t="Include" />
+            </e>
+            <e p="Unisave.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Hifive Game Template.sln" t="IncludeFlat" />
+      <e p="HifiveShaders.LowPolyWater.csproj" t="IncludeRecursive" />
+      <e p="HifiveShaders.Snowtracks.csproj" t="IncludeRecursive" />
+      <e p="LightJson.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive">
+        <e p="HifiveInputManager" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="HifiveInputManagerEditor.cs" t="Include" />
+              <e p="Unity.HifiveInputManager.Editor.asmdef" t="Include" />
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="DoubleTapControl.cs" t="Include" />
+              <e p="SlideControl.cs" t="Include" />
+              <e p="SwipeControl.cs" t="Include" />
+              <e p="TapControl.cs" t="Include" />
+              <e p="TapDragControl.cs" t="Include" />
+              <e p="TapHoldControl.cs" t="Include" />
+              <e p="Unity.HifiveInputManager.asmdef" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="HifiveLevelSystem" t="Include">
+          <e p="Editor" t="Include">
+            <e p="LevelSystemEditor.cs" t="Include" />
+            <e p="Unity.HifiveLevelSystem.Editor.asmdef" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="Game.cs" t="Include" />
+            <e p="Level.cs" t="Include" />
+            <e p="Stage.cs" t="Include" />
+            <e p="Unity.HifiveLevelSystem.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="HifivePaint" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="MobilePaint.cs" t="Include" />
+            <e p="PaintManager.cs" t="Include" />
+            <e p="Unity.HifivePaint.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="HifivePathManager" t="Include">
+          <e p="Editor" t="Include">
+            <e p="HifivePathManagerEditor.cs" t="Include" />
+            <e p="Unity.HifivePathManager.Editor.asmdef" t="Include" />
+          </e>
+          <e p="PathCreator" t="Include">
+            <e p="Core" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Helper" t="Include">
+                  <e p="MouseUtility.cs" t="Include" />
+                  <e p="PathHandle.cs" t="Include" />
+                  <e p="ScreenSpacePolyLine.cs" t="Include" />
+                </e>
+                <e p="PathCreatorEditor.asmdef" t="Include" />
+                <e p="PathEditor.cs" t="Include" />
+              </e>
+              <e p="Runtime" t="Include">
+                <e p="Objects" t="Include">
+                  <e p="BezierPath.cs" t="Include" />
+                  <e p="EndOfPathInstruction.cs" t="Include" />
+                  <e p="GlobalDisplaySettings.cs" t="Include" />
+                  <e p="MinMax3D.cs" t="Include" />
+                  <e p="PathCreator.cs" t="Include" />
+                  <e p="PathCreatorData.cs" t="Include" />
+                  <e p="PathSpace.cs" t="Include" />
+                  <e p="VertexPath.cs" t="Include" />
+                </e>
+                <e p="PathCreator.asmdef" t="Include" />
+                <e p="Utility" t="Include">
+                  <e p="CubicBezierUtility.cs" t="Include" />
+                  <e p="MathUtility.cs" t="Include" />
+                  <e p="VertexPathUtility.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="PathCreator.Examples.Editor.asmdef" t="Include" />
+                  <e p="PathSceneToolEditor.cs" t="Include" />
+                </e>
+                <e p="GeneratePathExample.cs" t="Include" />
+                <e p="PathCreator.Examples.asmdef" t="Include" />
+                <e p="PathFollower.cs" t="Include" />
+                <e p="PathPlacer.cs" t="Include" />
+                <e p="PathSceneTool.cs" t="Include" />
+                <e p="PathSpawner.cs" t="Include" />
+                <e p="RoadMeshCreator.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="HifiveShaders" t="Include">
+          <e p="_Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="HifiveShadersEditor.cs" t="Include" />
+              <e p="Unity.HifiveShaders.Editor.asmdef" t="Include" />
+            </e>
+          </e>
+          <e p="LowPolyWater" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="LowPolyWater.asmdef" t="Include" />
+              <e p="Water.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Snowtracks" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="DrawWithMouse.cs" t="Include" />
+              <e p="DrawWithMovement.cs" t="Include" />
+              <e p="Snowtracks.asmdef" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="HifiveUtilities" t="Include">
+          <e p="Editor" t="Include">
+            <e p="HifiveUtilityEditor.cs" t="Include" />
+            <e p="Unity.HifiveUtilities.Editor.asmdef" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="AspectRatioFitter.cs" t="Include" />
+            <e p="AspectRatioFitterCinemachine.cs" t="Include" />
+            <e p="ScreenCapture.cs" t="Include" />
+            <e p="Unity.HifiveUtilities.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="HifiveVibrator" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Unity.HifiveVibrator.asmdef" t="Include" />
+            <e p="Vibration.cs" t="Include" />
+            <e p="vibrationexample.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="PathCreator.csproj" t="IncludeRecursive" />
+      <e p="PathCreator.Examples.csproj" t="IncludeRecursive" />
+      <e p="PathCreator.Examples.Editor.csproj" t="IncludeRecursive" />
+      <e p="PathCreatorEditor.csproj" t="IncludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="Unisave.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifiveInputManager.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifiveInputManager.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifiveLevelSystem.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifiveLevelSystem.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifivePaint.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifivePathManager.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifiveShaders.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifiveUtilities.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifiveUtilities.Editor.csproj" t="IncludeRecursive" />
+      <e p="Unity.HifiveVibrator.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

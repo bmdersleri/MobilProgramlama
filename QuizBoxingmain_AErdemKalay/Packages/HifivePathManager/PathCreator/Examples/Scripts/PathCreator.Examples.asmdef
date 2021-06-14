@@ -1,0 +1,15 @@
+{
+    "name": "PathCreator.Examples",
+    "references": [
+        "GUID:f6e9050c76844894ba03d2bae64f7a20",
+        "GUID:c91c3a7e4fefd9646883a3d16e346adc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
