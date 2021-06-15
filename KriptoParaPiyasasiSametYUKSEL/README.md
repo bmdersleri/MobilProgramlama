@@ -12,6 +12,6 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulama Video Linki: https://www.youtube.com/watch?v=YDPNEg6je-Y&list=PLwhxgey9h6nCt4RnebgCFCWjNLuwNHr22&index=12
 
-Uygulama Google Play Store Linki: YOK
+Uygulama Google Play Store Linki:
 
 Hazırlayan: Samet Yüksel
