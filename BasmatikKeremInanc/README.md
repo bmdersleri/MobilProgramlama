@@ -14,5 +14,7 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulamanın Youtube Linki: https://www.youtube.com/watch?v=p06UBTsdyD4&t=416s
 
+Google Play Store Linki: https://play.google.com/store/apps/details?id=com.koftestudio.fingerforces
+
 Hazırlayan: Kerem İNANÇ
 
