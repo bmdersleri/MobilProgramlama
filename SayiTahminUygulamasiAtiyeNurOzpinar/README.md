@@ -14,7 +14,7 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulamanın Youtube Linki:  https://www.youtube.com/watch?v=suPA2No-BaI&list=PLwhxgey9h6nCt4RnebgCFCWjNLuwNHr22&index=25&t=1s
 
-Hazırlayan: Atiye Nur Özpınar
+Hazırlayan: Atiye Nur ÖZPINAR
 
 
 
