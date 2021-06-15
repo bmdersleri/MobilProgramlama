@@ -1,6 +1,6 @@
 Seyahat Ajandası
 
-Seyahat Ajandası uygulaması gidilen yerlerini konumu adres olarak kaydedip ve kaydettiğiniz adresle ilgili resim galerisi oluşturma imkanı tanıyor.
+Seyehat Ajandası uygulaması gidilen yerlerini konumu adres olarak kaydedip ve kaydettiğiniz adresle ilgili resim galerisi oluşturma imkanı tanıyor.
 
 
 Youtube Kanalımız: BMDersleri
