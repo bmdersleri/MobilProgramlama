@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Seyahat Ajandası</string>
-    <string name="title_activity_maps">Map</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_fullscreen">FullscreenActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">Seyahat Ajandasına Hoşgeldiniz</string>
-</resources>
