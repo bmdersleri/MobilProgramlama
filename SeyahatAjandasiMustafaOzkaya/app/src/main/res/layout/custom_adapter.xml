@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="155dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/file_background"
+    android:layout_height="195dp">
+<ImageView
+    android:id="@+id/click_pencil"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="110dp"
+    android:layout_marginTop="7dp"
+    android:background="@drawable/select_pencil">
+</ImageView>
+
+    <TextView
+        android:id="@+id/file_adi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Deneme"
+        android:textSize="28sp"
+        android:layout_marginTop="75dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp"
+        android:fontFamily="@font/mediumitalic"
+        android:textAlignment="center"
+        android:layout_gravity="center">
+    </TextView>
+
+
+</RelativeLayout>
