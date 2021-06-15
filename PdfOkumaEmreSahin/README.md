@@ -15,6 +15,8 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulamanın Youtube Linki: https://youtu.be/YyttVJ1feY8
 
+Uygulamanın Google Play Store Linki: https://play.google.com/store/apps/details?id=com.yeni.pdfokuma
+
 Hazırlayan: Emre ŞAHİN
 
 
