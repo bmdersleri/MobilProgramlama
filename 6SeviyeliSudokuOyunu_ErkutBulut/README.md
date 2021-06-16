@@ -1,16 +1,20 @@
-# seviyelisudoku
+Konu Adı: 6 Zorluk Seviyeli Sudoku Oyunu #22
 
-A new Flutter project.
+Youtube Kanalımız: BMDersleri
+Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
+Kısa Bağlantı: https://bit.ly/32k9MnJ
+Github Adresimiz: https://github.com/bmdersleri
 
-## Getting Started
+Konu ile ilgili Youtube Video Linki: https://www.youtube.com/watch?v=k3ofm8-DSg0
+Google Play Store linki: https://l24.im/2AJsZvS
 
-This project is a starting point for a Flutter application.
+Hazırlayan: Erkut Bulut
 
-A few resources to get you started if this is your first Flutter project:
+Ders içeriği: Ders içeriği: Flutter, hem Android hem İOS işletim sistemleri için ayrı ayrı kod yazmadan 
+uygulama geliştirmemizi sağlayan yazılım geliştirme kitidir. 
+Bu sunumda flutter ile sudoku uygulaması geliştirilmiştir. 
+Uygulamanın tanıtımı, ekran görüntüleri, kodları ve emulatorde çalıştırılması gösterilmektedir. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Uygulamanın kodları lib klasötü altındadır. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
