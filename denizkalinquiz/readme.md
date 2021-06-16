@@ -14,6 +14,7 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulama Linki: https://play.google.com/store/apps/details?id=com.Dnkln.dnkln
 
+Uygulama Videosu: https://www.youtube.com/watch?v=cRwqUX53byg&list=PLwhxgey9h6nCt4RnebgCFCWjNLuwNHr22&index=30
 
 
 Hazırlayan : Deniz KALIN 
