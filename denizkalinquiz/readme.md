@@ -3,10 +3,15 @@ Ders İçeriği :Uygulama çeşitli programlama dillerinin bilgilerini içeren b
 
 
 Youtube Kanalımız: BMDersleri
+
 Bağlantı: https://www.youtube.com/c/bmdersleri​
+
 Kısa Bağlantı: https://bit.ly/32k9MnJ​
+
 Github Adresimiz: https://github.com/bmdersleri
+
 Uygulama Linki: https://play.google.com/store/apps/details?id=com.Dnkln.dnkln
+
 
 
 
