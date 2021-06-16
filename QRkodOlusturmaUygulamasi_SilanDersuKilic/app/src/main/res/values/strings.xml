@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QRkodOlusturmaUygulamasi</string>
+    <string name= "qr_code">qr_code</string>
+    <string name= "information">Veriyi Giriniz</string>
+    <string name= "qr_code_olustur">QR Kodu Olustur</string>
+</resources>
