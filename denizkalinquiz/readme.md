@@ -15,6 +15,9 @@ Uygulama Linki: https://play.google.com/store/apps/details?id=com.Dnkln.dnkln
 
 
 
+
+
+
 00:00 Giriş
 
 00:18 İçindekiler
@@ -28,6 +31,8 @@ Uygulama Linki: https://play.google.com/store/apps/details?id=com.Dnkln.dnkln
 08:02 Emülatörde Gösterim
 
 08:27 Sonuç
+
+
 
 
 
