@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/zemin0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/spaceback01"
+        android:contentDescription="@string/app_name"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/zemin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/spaceback01"
+            android:contentDescription="@string/app_name"
+            android:gravity="end"
+            android:orientation="vertical">
+
+
+            <RelativeLayout
+                android:id="@+id/zemin2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:gravity="bottom">
+
+
+                <ImageView
+                    android:id="@+id/Dusman1"
+                    android:layout_width="200px"
+                    android:layout_height="200px" />
+
+                <ImageView
+                    android:id="@+id/Dusman2"
+                    android:layout_width="200px"
+                    android:layout_height="200px" />
+
+
+                <ImageView
+                    android:id="@+id/imageViewANA"
+                    android:layout_width="200px"
+                    android:layout_height="200px"
+                    android:layout_gravity="bottom"
+                    android:layout_marginBottom="0px"
+                    android:contentDescription="@string/app_name"
+                    android:gravity="bottom"
+                    app:srcCompat="@drawable/spaceship01" />
+
+                <ImageView
+                    android:id="@+id/imagelazer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/app_name"
+                    app:srcCompat="@drawable/lazer1" />
+
+
+                <LinearLayout
+                    android:id="@+id/zeminW"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/app_name"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/textViewSCORE"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:foregroundGravity="left"
+                        android:gravity="left"
+                        android:text=""
+                        android:textColor="@color/colorWhite"
+                        android:textSize="30sp" />
+
+
+                    <TextView
+                        android:id="@+id/textViewFIREadet"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:foregroundGravity="left"
+                        android:gravity="left"
+                        android:text="@string/firename"
+                        android:textColor="@color/colorRed"
+                        android:textSize="30sp" />
+
+                    <TextView
+                        android:id="@+id/textViewCAN"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:foregroundGravity="right"
+                        android:gravity="right"
+                        android:text="x3"
+                        android:textColor="@android:color/holo_blue_light"
+                        android:textSize="40sp" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/zeminW2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="0px"
+                    android:contentDescription="@string/app_name"
+                    android:foregroundGravity="bottom"
+                    android:gravity="bottom|right|end"
+                    android:orientation="vertical">
+
+
+                    <Button
+                        android:id="@+id/buttonFIRE"
+                        android:layout_width="180px"
+                        android:layout_height="180px"
+                        android:layout_gravity="bottom"
+                        android:background="@color/colorPrimaryDark"
+                        android:gravity="center"
+                        android:text="LAZER BOMB"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="36px" />
+
+                </LinearLayout>
+
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
