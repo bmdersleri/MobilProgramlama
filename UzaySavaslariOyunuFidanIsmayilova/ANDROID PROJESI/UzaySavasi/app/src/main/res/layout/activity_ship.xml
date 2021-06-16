@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ShipActivity">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/spaceback01"
+        android:contentDescription="@string/app_name"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Savaş Geminizi Seçin"
+                android:textColor="@color/colorWhite"
+                android:textSize="36px" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:orientation="horizontal">
+
+
+                <ImageButton
+                    android:id="@+id/imageButton"
+                    android:layout_width="300px"
+                    android:layout_height="300px"
+                    android:scaleType="fitStart"
+                    app:srcCompat="@drawable/spaceship01" />
+
+
+                <TextView
+                    android:id="@+id/textViewShip1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SKYJUMBER \n\n Hız : 5 \n Zırh : 5 \n Silah : 4 "
+                    android:textColor="@color/colorWhite"
+                    android:textSize="36px" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:orientation="horizontal">
+
+
+                <ImageButton
+                    android:id="@+id/imageButton2"
+                    android:layout_width="300px"
+                    android:layout_height="300px"
+                    android:scaleType="fitStart"
+                    app:srcCompat="@drawable/spaceship02" />
+
+
+                <TextView
+                    android:id="@+id/textViewShip2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="AGGRESSIVE \n\n Hız : 4 \n Zırh : 5 \n Silah : 5 "
+                    android:textColor="@color/colorWhite"
+                    android:textSize="36px" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/imageButton3"
+                    android:layout_width="300px"
+                    android:layout_height="300px"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/spaceship03" />
+
+
+                <TextView
+                    android:id="@+id/textViewShip3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="JEWEL \n\n Hız : 5 \n Zırh : 4 \n Silah : 5 "
+                    android:textColor="@color/colorWhite"
+                    android:textSize="36px" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

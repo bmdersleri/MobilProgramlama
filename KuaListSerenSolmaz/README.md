@@ -19,4 +19,6 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulamamızın Youtube Linki: https://youtu.be/9x8Ayeqr3f0
 
-Hazırlayan: Seren SOLMAZ
+Uygulamanın Google Play Store Linki: https://play.google.com/store/apps/details?id=com.SerenSolmazZ.KuaforListem
+
+Hazırlayan: Seren Solmaz

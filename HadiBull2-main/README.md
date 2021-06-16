@@ -22,7 +22,7 @@ Uygulama Play Store Linki:
 
 04:29 Uygulama Kod Açıklamaları
 
-16:43 Sonuç
+16:43 Sonuç 
 
 
 
