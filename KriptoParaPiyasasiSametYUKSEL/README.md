@@ -12,6 +12,6 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Uygulama Video Linki: https://www.youtube.com/watch?v=YDPNEg6je-Y&list=PLwhxgey9h6nCt4RnebgCFCWjNLuwNHr22&index=12
 
-Uygulama Google Play Store Linki:
+Uygulama Google Play Store Linki: https://play.google.com/store/apps/details?id=com.skkripto.skkriptoapplication&gl=TR
 
 Hazırlayan: Samet Yüksel
