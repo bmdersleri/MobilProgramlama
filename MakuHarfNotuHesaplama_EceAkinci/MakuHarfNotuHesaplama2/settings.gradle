@@ -1,0 +1,2 @@
+rootProject.name = "Maku Harf Notu Hesaplama"
+include ':app'

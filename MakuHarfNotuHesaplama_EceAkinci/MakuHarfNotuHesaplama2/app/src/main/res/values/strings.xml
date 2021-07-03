@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAKÜ Harf Notu Hesaplama</string>
+    <string name="girisMaku">MAKÜ</string>
+    <string name="girisHarfNotu">Harf Notu Hesaplama</string>
+    <string name="butonBasla">Başla</string>
+    <string name="notlariGir">Sınav Notlarınızı Giriniz :</string>
+    <string name="vizeGiris">Vize Notu</string>
+    <string name="finalGiris">Final Notu</string>
+    <string name="butonHesapla">Hesapla</string>
+</resources>

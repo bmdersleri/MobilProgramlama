@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/arkaplanmaku"
+    tools:context=".HesapActivity">
+
+    <TextView
+        android:id="@+id/txtVSinav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="@string/notlariGir" />
+
+    <EditText
+        android:id="@+id/editTxtVize"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:inputType="textPersonName"
+        android:hint="@string/vizeGiris"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/editTxtFinal"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:inputType="textPersonName"
+        android:hint="@string/finalGiris"
+        android:text="" />
+
+    <Button
+        android:id="@+id/buttonHesaplama"
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/butonHesapla" />
+
+    <TextView
+        android:id="@+id/txtVSonuc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="15dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/txtVHarfNotu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:text="" />
+
+    <ImageView
+        android:id="@+id/imageViewMaku"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="60dp"
+        app:srcCompat="@drawable/makuamblem" />
+
+</LinearLayout>
